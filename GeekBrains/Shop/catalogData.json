@@ -7,8 +7,8 @@
     {
         "id_product": 1,
         "product_name": "Display",
-        "price": 800,
-        "img": "https://raw.githubusercontent.com/teitumx/static/master/GeekBrains/Shop/img/display.jpg"
+        "img": "https://raw.githubusercontent.com/teitumx/static/master/GeekBrains/Shop/img/display.jpg",
+        "price": 800
     },
     {
         "id_product": 3,
