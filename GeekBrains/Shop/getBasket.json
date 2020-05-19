@@ -3,13 +3,13 @@
   "countGoods": 2,
   "contents": [
     {
-      "id_product": 0,
+      "id_product": "0",
       "product_name": "Processor",
       "price": 1000,
       "quantity": 1
     },
     {
-      "id_product": 4,
+      "id_product": "4",
       "product_name": "Mouse",
       "price": 100,
       "quantity": 1
